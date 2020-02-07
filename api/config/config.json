@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "A1q2w3e4r5t6y",
+    "database": "data-science-sdid",
+    "host": "146.148.78.153",
+    "dialect": "postgres",
+    "port": "5432"    
+  },
+  "test": {
+    "username": "postgres",
+    "password": "1987S1a2s3d",
+    "database": "data-science-sdid",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "port": "5433"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "A1q2w3e4r5t6y",
+    "database": "data-science-sdid",
+    "host": "146.148.78.153",
+    "dialect": "postgres",
+    "port": "5432"
+  }
+}
