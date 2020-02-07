@@ -14,5 +14,5 @@ endpoints_api_service:
   name: subtle-seer-267419.appspot.com
 #rollout_strategy: managed 
 # Copyright 2015-2016, Google, 
-  config_id: 2020-02-07r0  # este config_id se cambia de acuerdo a la fecha actual 
+  config_id: 2020-02-07r1  # este config_id se cambia de acuerdo a la fecha actual 
 # [END configuration]
