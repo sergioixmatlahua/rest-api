@@ -5,7 +5,7 @@ info:
 # during dev, should point to your local machine
 host: subtle-seer-267419.appspot.com
 x-google-endpoints:
-- name: 'valid-decoder-258800.appspot.com'
+- name: 'subtle-seer-267419.appspot.com'
   allowCors: 'true'
 # basePath prefixes all resource paths 
 basePath: /
